@@ -1,11 +1,11 @@
-package USTBatchNo3.Sonarqubetest;
+package ust.sonarqubetest;
 
-public class employee {
+public class Employee {
 	private String name;
 	private int age;
 	private int year;
 	private double salary;
-	public employee(String name, int age, int year, double salary) {
+	public Employee(String name, int age, int year, double salary) {
 		super();
 		this.name = name;
 		this.age = age;
